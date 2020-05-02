@@ -1,0 +1,5 @@
+input/plant-pathology-2020-fgvc7/
+output/best_models
+__pycache__
+*.pyc
+.ipynb_checkpoints/
