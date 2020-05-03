@@ -29,3 +29,10 @@ I found several discussions:
 Not compeletely sovled, but I found this only happens when I use specific preprocessing as part of the pipline (e.g. LSA, PCA)
 
 * [Parallel jobs don't finish in scikit-learn's GridSearchCV](https://stackoverflow.com/questions/33042527/parallel-jobs-dont-finish-in-scikit-learns-gridsearchcv)
+
+
+# reading list
+
+* [marooncn/Defect-Detection-Classifier](https://github.com/marooncn/Defect-Detection-Classifier)
+
+* [defect-detection - github](https://github.com/topics/defect-detection)
