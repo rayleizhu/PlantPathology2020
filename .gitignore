@@ -1,4 +1,5 @@
 input/plant-pathology-2020-fgvc7/
+input/images_no_bg/
 output/best_models
 __pycache__
 *.pyc

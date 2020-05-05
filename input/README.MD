@@ -1,0 +1,1 @@
+Download plant-pathology-2020-fgvc7.zip and unzip it here.
